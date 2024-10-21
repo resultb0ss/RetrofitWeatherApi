@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitWeatherApi</string>
+    <string name="api_key">d473fe549b6462058cfc7446beed7096</string>
+</resources>
